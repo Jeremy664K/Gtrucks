@@ -12,12 +12,12 @@ Aplicación utilizada para gestionar la salida de camiones, remolques y viajes.
 ## Instalación
 
 1. [Descargar JDK o Kit de desarrollo en Java](https://www.oracle.com/cl/java/technologies/javase/javase8-archive-downloads.html)
-2. [Descargar XAMPP para iniciar un sql-server]([https://www.apachefriends.org/es/download.html])
+2. [Descargar XAMPP para iniciar un sql-server](https://www.apachefriends.org/es/download.html)
 
 ![Instalación de XAMPP](./readme-images/xampp.png)
 
 3. Tienes todos los permisos para interactuar en la base de datos
-4. Si quieres ver la base de datos despues de iniciar XAMPP, usa: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+4. Después de iniciar XAMPP, usa: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
 
 ![localhost phpmyadmin](./readme-images/bd.png)
 
